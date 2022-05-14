@@ -2,6 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, Verdana, sans-serif;
+    overflow-x: hidden;
 }
 .header{
     width: 100%;
